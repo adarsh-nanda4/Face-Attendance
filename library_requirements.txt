@@ -1,0 +1,14 @@
+clr
+customtkinter
+pandas
+openpyxl
+tk
+datetime
+pillow
+tkwebview2
+streamlit
+numpy
+pickles
+opencv-python
+shutils
+face_recognition
